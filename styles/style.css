@@ -1,5 +1,18 @@
-a {
-  color: #82c4c1;
+p {
+  font-family: "Muli", sans-serif;
+  color: #46494d;
+}
+
+h1 {
+  font-family: "Muli", sans-serif;
+  color: #46494d;
+  /* letter-spacing: -5px; */
+}
+
+h3 {
+  font-family: "Muli", sans-serif;
+  color: #46494d;
+  /* letter-spacing: -5px; */
 }
 
 body {
